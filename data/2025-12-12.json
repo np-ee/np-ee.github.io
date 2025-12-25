@@ -1,0 +1,482 @@
+[
+  {
+    "startDateTime": "2025-12-11T23:00:00Z",
+    "endDateTime": "2025-12-11T23:15:00Z",
+    "priceEurMWh": 94.37
+  },
+  {
+    "startDateTime": "2025-12-11T23:15:00Z",
+    "endDateTime": "2025-12-11T23:30:00Z",
+    "priceEurMWh": 45.26
+  },
+  {
+    "startDateTime": "2025-12-11T23:30:00Z",
+    "endDateTime": "2025-12-11T23:45:00Z",
+    "priceEurMWh": 44.49
+  },
+  {
+    "startDateTime": "2025-12-11T23:45:00Z",
+    "endDateTime": "2025-12-12T00:00:00Z",
+    "priceEurMWh": 40.73
+  },
+  {
+    "startDateTime": "2025-12-12T00:00:00Z",
+    "endDateTime": "2025-12-12T00:15:00Z",
+    "priceEurMWh": 80
+  },
+  {
+    "startDateTime": "2025-12-12T00:15:00Z",
+    "endDateTime": "2025-12-12T00:30:00Z",
+    "priceEurMWh": 89.45
+  },
+  {
+    "startDateTime": "2025-12-12T00:30:00Z",
+    "endDateTime": "2025-12-12T00:45:00Z",
+    "priceEurMWh": 92.66
+  },
+  {
+    "startDateTime": "2025-12-12T00:45:00Z",
+    "endDateTime": "2025-12-12T01:00:00Z",
+    "priceEurMWh": 73.4
+  },
+  {
+    "startDateTime": "2025-12-12T01:00:00Z",
+    "endDateTime": "2025-12-12T01:15:00Z",
+    "priceEurMWh": 69.99
+  },
+  {
+    "startDateTime": "2025-12-12T01:15:00Z",
+    "endDateTime": "2025-12-12T01:30:00Z",
+    "priceEurMWh": 57.08
+  },
+  {
+    "startDateTime": "2025-12-12T01:30:00Z",
+    "endDateTime": "2025-12-12T01:45:00Z",
+    "priceEurMWh": 57.03
+  },
+  {
+    "startDateTime": "2025-12-12T01:45:00Z",
+    "endDateTime": "2025-12-12T02:00:00Z",
+    "priceEurMWh": 54.8
+  },
+  {
+    "startDateTime": "2025-12-12T02:00:00Z",
+    "endDateTime": "2025-12-12T02:15:00Z",
+    "priceEurMWh": 68.82
+  },
+  {
+    "startDateTime": "2025-12-12T02:15:00Z",
+    "endDateTime": "2025-12-12T02:30:00Z",
+    "priceEurMWh": 57.17
+  },
+  {
+    "startDateTime": "2025-12-12T02:30:00Z",
+    "endDateTime": "2025-12-12T02:45:00Z",
+    "priceEurMWh": 63.02
+  },
+  {
+    "startDateTime": "2025-12-12T02:45:00Z",
+    "endDateTime": "2025-12-12T03:00:00Z",
+    "priceEurMWh": 68.37
+  },
+  {
+    "startDateTime": "2025-12-12T03:00:00Z",
+    "endDateTime": "2025-12-12T03:15:00Z",
+    "priceEurMWh": 52.45
+  },
+  {
+    "startDateTime": "2025-12-12T03:15:00Z",
+    "endDateTime": "2025-12-12T03:30:00Z",
+    "priceEurMWh": 59.81
+  },
+  {
+    "startDateTime": "2025-12-12T03:30:00Z",
+    "endDateTime": "2025-12-12T03:45:00Z",
+    "priceEurMWh": 60.11
+  },
+  {
+    "startDateTime": "2025-12-12T03:45:00Z",
+    "endDateTime": "2025-12-12T04:00:00Z",
+    "priceEurMWh": 60.51
+  },
+  {
+    "startDateTime": "2025-12-12T04:00:00Z",
+    "endDateTime": "2025-12-12T04:15:00Z",
+    "priceEurMWh": 72.72
+  },
+  {
+    "startDateTime": "2025-12-12T04:15:00Z",
+    "endDateTime": "2025-12-12T04:30:00Z",
+    "priceEurMWh": 72.83
+  },
+  {
+    "startDateTime": "2025-12-12T04:30:00Z",
+    "endDateTime": "2025-12-12T04:45:00Z",
+    "priceEurMWh": 72.28
+  },
+  {
+    "startDateTime": "2025-12-12T04:45:00Z",
+    "endDateTime": "2025-12-12T05:00:00Z",
+    "priceEurMWh": 70.94
+  },
+  {
+    "startDateTime": "2025-12-12T05:00:00Z",
+    "endDateTime": "2025-12-12T05:15:00Z",
+    "priceEurMWh": 93.81
+  },
+  {
+    "startDateTime": "2025-12-12T05:15:00Z",
+    "endDateTime": "2025-12-12T05:30:00Z",
+    "priceEurMWh": 111.29
+  },
+  {
+    "startDateTime": "2025-12-12T05:30:00Z",
+    "endDateTime": "2025-12-12T05:45:00Z",
+    "priceEurMWh": 124.09
+  },
+  {
+    "startDateTime": "2025-12-12T05:45:00Z",
+    "endDateTime": "2025-12-12T06:00:00Z",
+    "priceEurMWh": 125.73
+  },
+  {
+    "startDateTime": "2025-12-12T06:00:00Z",
+    "endDateTime": "2025-12-12T06:15:00Z",
+    "priceEurMWh": 114.21
+  },
+  {
+    "startDateTime": "2025-12-12T06:15:00Z",
+    "endDateTime": "2025-12-12T06:30:00Z",
+    "priceEurMWh": 127.05
+  },
+  {
+    "startDateTime": "2025-12-12T06:30:00Z",
+    "endDateTime": "2025-12-12T06:45:00Z",
+    "priceEurMWh": 121.48
+  },
+  {
+    "startDateTime": "2025-12-12T06:45:00Z",
+    "endDateTime": "2025-12-12T07:00:00Z",
+    "priceEurMWh": 127.31
+  },
+  {
+    "startDateTime": "2025-12-12T07:00:00Z",
+    "endDateTime": "2025-12-12T07:15:00Z",
+    "priceEurMWh": 130.16
+  },
+  {
+    "startDateTime": "2025-12-12T07:15:00Z",
+    "endDateTime": "2025-12-12T07:30:00Z",
+    "priceEurMWh": 134.89
+  },
+  {
+    "startDateTime": "2025-12-12T07:30:00Z",
+    "endDateTime": "2025-12-12T07:45:00Z",
+    "priceEurMWh": 134.15
+  },
+  {
+    "startDateTime": "2025-12-12T07:45:00Z",
+    "endDateTime": "2025-12-12T08:00:00Z",
+    "priceEurMWh": 129.14
+  },
+  {
+    "startDateTime": "2025-12-12T08:00:00Z",
+    "endDateTime": "2025-12-12T08:15:00Z",
+    "priceEurMWh": 134.31
+  },
+  {
+    "startDateTime": "2025-12-12T08:15:00Z",
+    "endDateTime": "2025-12-12T08:30:00Z",
+    "priceEurMWh": 127.33
+  },
+  {
+    "startDateTime": "2025-12-12T08:30:00Z",
+    "endDateTime": "2025-12-12T08:45:00Z",
+    "priceEurMWh": 126.29
+  },
+  {
+    "startDateTime": "2025-12-12T08:45:00Z",
+    "endDateTime": "2025-12-12T09:00:00Z",
+    "priceEurMWh": 124.54
+  },
+  {
+    "startDateTime": "2025-12-12T09:00:00Z",
+    "endDateTime": "2025-12-12T09:15:00Z",
+    "priceEurMWh": 130.6
+  },
+  {
+    "startDateTime": "2025-12-12T09:15:00Z",
+    "endDateTime": "2025-12-12T09:30:00Z",
+    "priceEurMWh": 127.66
+  },
+  {
+    "startDateTime": "2025-12-12T09:30:00Z",
+    "endDateTime": "2025-12-12T09:45:00Z",
+    "priceEurMWh": 121.54
+  },
+  {
+    "startDateTime": "2025-12-12T09:45:00Z",
+    "endDateTime": "2025-12-12T10:00:00Z",
+    "priceEurMWh": 117.06
+  },
+  {
+    "startDateTime": "2025-12-12T10:00:00Z",
+    "endDateTime": "2025-12-12T10:15:00Z",
+    "priceEurMWh": 123.07
+  },
+  {
+    "startDateTime": "2025-12-12T10:15:00Z",
+    "endDateTime": "2025-12-12T10:30:00Z",
+    "priceEurMWh": 119.43
+  },
+  {
+    "startDateTime": "2025-12-12T10:30:00Z",
+    "endDateTime": "2025-12-12T10:45:00Z",
+    "priceEurMWh": 118.92
+  },
+  {
+    "startDateTime": "2025-12-12T10:45:00Z",
+    "endDateTime": "2025-12-12T11:00:00Z",
+    "priceEurMWh": 115.77
+  },
+  {
+    "startDateTime": "2025-12-12T11:00:00Z",
+    "endDateTime": "2025-12-12T11:15:00Z",
+    "priceEurMWh": 112.29
+  },
+  {
+    "startDateTime": "2025-12-12T11:15:00Z",
+    "endDateTime": "2025-12-12T11:30:00Z",
+    "priceEurMWh": 113.62
+  },
+  {
+    "startDateTime": "2025-12-12T11:30:00Z",
+    "endDateTime": "2025-12-12T11:45:00Z",
+    "priceEurMWh": 114.04
+  },
+  {
+    "startDateTime": "2025-12-12T11:45:00Z",
+    "endDateTime": "2025-12-12T12:00:00Z",
+    "priceEurMWh": 115.46
+  },
+  {
+    "startDateTime": "2025-12-12T12:00:00Z",
+    "endDateTime": "2025-12-12T12:15:00Z",
+    "priceEurMWh": 119.38
+  },
+  {
+    "startDateTime": "2025-12-12T12:15:00Z",
+    "endDateTime": "2025-12-12T12:30:00Z",
+    "priceEurMWh": 119.01
+  },
+  {
+    "startDateTime": "2025-12-12T12:30:00Z",
+    "endDateTime": "2025-12-12T12:45:00Z",
+    "priceEurMWh": 121.61
+  },
+  {
+    "startDateTime": "2025-12-12T12:45:00Z",
+    "endDateTime": "2025-12-12T13:00:00Z",
+    "priceEurMWh": 130.66
+  },
+  {
+    "startDateTime": "2025-12-12T13:00:00Z",
+    "endDateTime": "2025-12-12T13:15:00Z",
+    "priceEurMWh": 116.17
+  },
+  {
+    "startDateTime": "2025-12-12T13:15:00Z",
+    "endDateTime": "2025-12-12T13:30:00Z",
+    "priceEurMWh": 125.36
+  },
+  {
+    "startDateTime": "2025-12-12T13:30:00Z",
+    "endDateTime": "2025-12-12T13:45:00Z",
+    "priceEurMWh": 143.37
+  },
+  {
+    "startDateTime": "2025-12-12T13:45:00Z",
+    "endDateTime": "2025-12-12T14:00:00Z",
+    "priceEurMWh": 158.5
+  },
+  {
+    "startDateTime": "2025-12-12T14:00:00Z",
+    "endDateTime": "2025-12-12T14:15:00Z",
+    "priceEurMWh": 125.43
+  },
+  {
+    "startDateTime": "2025-12-12T14:15:00Z",
+    "endDateTime": "2025-12-12T14:30:00Z",
+    "priceEurMWh": 132.34
+  },
+  {
+    "startDateTime": "2025-12-12T14:30:00Z",
+    "endDateTime": "2025-12-12T14:45:00Z",
+    "priceEurMWh": 140.64
+  },
+  {
+    "startDateTime": "2025-12-12T14:45:00Z",
+    "endDateTime": "2025-12-12T15:00:00Z",
+    "priceEurMWh": 149.4
+  },
+  {
+    "startDateTime": "2025-12-12T15:00:00Z",
+    "endDateTime": "2025-12-12T15:15:00Z",
+    "priceEurMWh": 141.31
+  },
+  {
+    "startDateTime": "2025-12-12T15:15:00Z",
+    "endDateTime": "2025-12-12T15:30:00Z",
+    "priceEurMWh": 146.19
+  },
+  {
+    "startDateTime": "2025-12-12T15:30:00Z",
+    "endDateTime": "2025-12-12T15:45:00Z",
+    "priceEurMWh": 157.41
+  },
+  {
+    "startDateTime": "2025-12-12T15:45:00Z",
+    "endDateTime": "2025-12-12T16:00:00Z",
+    "priceEurMWh": 168.56
+  },
+  {
+    "startDateTime": "2025-12-12T16:00:00Z",
+    "endDateTime": "2025-12-12T16:15:00Z",
+    "priceEurMWh": 159.88
+  },
+  {
+    "startDateTime": "2025-12-12T16:15:00Z",
+    "endDateTime": "2025-12-12T16:30:00Z",
+    "priceEurMWh": 161.26
+  },
+  {
+    "startDateTime": "2025-12-12T16:30:00Z",
+    "endDateTime": "2025-12-12T16:45:00Z",
+    "priceEurMWh": 154.13
+  },
+  {
+    "startDateTime": "2025-12-12T16:45:00Z",
+    "endDateTime": "2025-12-12T17:00:00Z",
+    "priceEurMWh": 150.24
+  },
+  {
+    "startDateTime": "2025-12-12T17:00:00Z",
+    "endDateTime": "2025-12-12T17:15:00Z",
+    "priceEurMWh": 147.14
+  },
+  {
+    "startDateTime": "2025-12-12T17:15:00Z",
+    "endDateTime": "2025-12-12T17:30:00Z",
+    "priceEurMWh": 141.98
+  },
+  {
+    "startDateTime": "2025-12-12T17:30:00Z",
+    "endDateTime": "2025-12-12T17:45:00Z",
+    "priceEurMWh": 139.86
+  },
+  {
+    "startDateTime": "2025-12-12T17:45:00Z",
+    "endDateTime": "2025-12-12T18:00:00Z",
+    "priceEurMWh": 140.03
+  },
+  {
+    "startDateTime": "2025-12-12T18:00:00Z",
+    "endDateTime": "2025-12-12T18:15:00Z",
+    "priceEurMWh": 140.86
+  },
+  {
+    "startDateTime": "2025-12-12T18:15:00Z",
+    "endDateTime": "2025-12-12T18:30:00Z",
+    "priceEurMWh": 135.9
+  },
+  {
+    "startDateTime": "2025-12-12T18:30:00Z",
+    "endDateTime": "2025-12-12T18:45:00Z",
+    "priceEurMWh": 135.16
+  },
+  {
+    "startDateTime": "2025-12-12T18:45:00Z",
+    "endDateTime": "2025-12-12T19:00:00Z",
+    "priceEurMWh": 126.5
+  },
+  {
+    "startDateTime": "2025-12-12T19:00:00Z",
+    "endDateTime": "2025-12-12T19:15:00Z",
+    "priceEurMWh": 153.24
+  },
+  {
+    "startDateTime": "2025-12-12T19:15:00Z",
+    "endDateTime": "2025-12-12T19:30:00Z",
+    "priceEurMWh": 127.08
+  },
+  {
+    "startDateTime": "2025-12-12T19:30:00Z",
+    "endDateTime": "2025-12-12T19:45:00Z",
+    "priceEurMWh": 120.01
+  },
+  {
+    "startDateTime": "2025-12-12T19:45:00Z",
+    "endDateTime": "2025-12-12T20:00:00Z",
+    "priceEurMWh": 107.91
+  },
+  {
+    "startDateTime": "2025-12-12T20:00:00Z",
+    "endDateTime": "2025-12-12T20:15:00Z",
+    "priceEurMWh": 129.68
+  },
+  {
+    "startDateTime": "2025-12-12T20:15:00Z",
+    "endDateTime": "2025-12-12T20:30:00Z",
+    "priceEurMWh": 116.77
+  },
+  {
+    "startDateTime": "2025-12-12T20:30:00Z",
+    "endDateTime": "2025-12-12T20:45:00Z",
+    "priceEurMWh": 109.14
+  },
+  {
+    "startDateTime": "2025-12-12T20:45:00Z",
+    "endDateTime": "2025-12-12T21:00:00Z",
+    "priceEurMWh": 103.18
+  },
+  {
+    "startDateTime": "2025-12-12T21:00:00Z",
+    "endDateTime": "2025-12-12T21:15:00Z",
+    "priceEurMWh": 115
+  },
+  {
+    "startDateTime": "2025-12-12T21:15:00Z",
+    "endDateTime": "2025-12-12T21:30:00Z",
+    "priceEurMWh": 111.69
+  },
+  {
+    "startDateTime": "2025-12-12T21:30:00Z",
+    "endDateTime": "2025-12-12T21:45:00Z",
+    "priceEurMWh": 111.68
+  },
+  {
+    "startDateTime": "2025-12-12T21:45:00Z",
+    "endDateTime": "2025-12-12T22:00:00Z",
+    "priceEurMWh": 103.19
+  },
+  {
+    "startDateTime": "2025-12-12T22:00:00Z",
+    "endDateTime": "2025-12-12T22:15:00Z",
+    "priceEurMWh": 100.09
+  },
+  {
+    "startDateTime": "2025-12-12T22:15:00Z",
+    "endDateTime": "2025-12-12T22:30:00Z",
+    "priceEurMWh": 85.1
+  },
+  {
+    "startDateTime": "2025-12-12T22:30:00Z",
+    "endDateTime": "2025-12-12T22:45:00Z",
+    "priceEurMWh": 84.25
+  },
+  {
+    "startDateTime": "2025-12-12T22:45:00Z",
+    "endDateTime": "2025-12-12T23:00:00Z",
+    "priceEurMWh": 81.83
+  }
+]
