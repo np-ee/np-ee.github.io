@@ -1,0 +1,482 @@
+[
+  {
+    "startDateTime": "2026-09-09T22:00:00Z",
+    "endDateTime": "2026-09-09T22:15:00Z",
+    "priceEurMWh": 135.76
+  },
+  {
+    "startDateTime": "2026-09-09T22:15:00Z",
+    "endDateTime": "2026-09-09T22:30:00Z",
+    "priceEurMWh": 81.05
+  },
+  {
+    "startDateTime": "2026-09-09T22:30:00Z",
+    "endDateTime": "2026-09-09T22:45:00Z",
+    "priceEurMWh": 59.45
+  },
+  {
+    "startDateTime": "2026-09-09T22:45:00Z",
+    "endDateTime": "2026-09-09T23:00:00Z",
+    "priceEurMWh": 34.66
+  },
+  {
+    "startDateTime": "2026-09-09T23:00:00Z",
+    "endDateTime": "2026-09-09T23:15:00Z",
+    "priceEurMWh": 93.86
+  },
+  {
+    "startDateTime": "2026-09-09T23:15:00Z",
+    "endDateTime": "2026-09-09T23:30:00Z",
+    "priceEurMWh": 57.01
+  },
+  {
+    "startDateTime": "2026-09-09T23:30:00Z",
+    "endDateTime": "2026-09-09T23:45:00Z",
+    "priceEurMWh": 55.09
+  },
+  {
+    "startDateTime": "2026-09-09T23:45:00Z",
+    "endDateTime": "2026-09-10T00:00:00Z",
+    "priceEurMWh": 34.04
+  },
+  {
+    "startDateTime": "2026-09-10T00:00:00Z",
+    "endDateTime": "2026-09-10T00:15:00Z",
+    "priceEurMWh": 57.03
+  },
+  {
+    "startDateTime": "2026-09-10T00:15:00Z",
+    "endDateTime": "2026-09-10T00:30:00Z",
+    "priceEurMWh": 51.76
+  },
+  {
+    "startDateTime": "2026-09-10T00:30:00Z",
+    "endDateTime": "2026-09-10T00:45:00Z",
+    "priceEurMWh": 39.99
+  },
+  {
+    "startDateTime": "2026-09-10T00:45:00Z",
+    "endDateTime": "2026-09-10T01:00:00Z",
+    "priceEurMWh": 29.99
+  },
+  {
+    "startDateTime": "2026-09-10T01:00:00Z",
+    "endDateTime": "2026-09-10T01:15:00Z",
+    "priceEurMWh": 57.14
+  },
+  {
+    "startDateTime": "2026-09-10T01:15:00Z",
+    "endDateTime": "2026-09-10T01:30:00Z",
+    "priceEurMWh": 55.13
+  },
+  {
+    "startDateTime": "2026-09-10T01:30:00Z",
+    "endDateTime": "2026-09-10T01:45:00Z",
+    "priceEurMWh": 40
+  },
+  {
+    "startDateTime": "2026-09-10T01:45:00Z",
+    "endDateTime": "2026-09-10T02:00:00Z",
+    "priceEurMWh": 33.52
+  },
+  {
+    "startDateTime": "2026-09-10T02:00:00Z",
+    "endDateTime": "2026-09-10T02:15:00Z",
+    "priceEurMWh": 28
+  },
+  {
+    "startDateTime": "2026-09-10T02:15:00Z",
+    "endDateTime": "2026-09-10T02:30:00Z",
+    "priceEurMWh": 55.83
+  },
+  {
+    "startDateTime": "2026-09-10T02:30:00Z",
+    "endDateTime": "2026-09-10T02:45:00Z",
+    "priceEurMWh": 57.95
+  },
+  {
+    "startDateTime": "2026-09-10T02:45:00Z",
+    "endDateTime": "2026-09-10T03:00:00Z",
+    "priceEurMWh": 58.92
+  },
+  {
+    "startDateTime": "2026-09-10T03:00:00Z",
+    "endDateTime": "2026-09-10T03:15:00Z",
+    "priceEurMWh": 88.26
+  },
+  {
+    "startDateTime": "2026-09-10T03:15:00Z",
+    "endDateTime": "2026-09-10T03:30:00Z",
+    "priceEurMWh": 102.79
+  },
+  {
+    "startDateTime": "2026-09-10T03:30:00Z",
+    "endDateTime": "2026-09-10T03:45:00Z",
+    "priceEurMWh": 110.49
+  },
+  {
+    "startDateTime": "2026-09-10T03:45:00Z",
+    "endDateTime": "2026-09-10T04:00:00Z",
+    "priceEurMWh": 125.77
+  },
+  {
+    "startDateTime": "2026-09-10T04:00:00Z",
+    "endDateTime": "2026-09-10T04:15:00Z",
+    "priceEurMWh": 154.3
+  },
+  {
+    "startDateTime": "2026-09-10T04:15:00Z",
+    "endDateTime": "2026-09-10T04:30:00Z",
+    "priceEurMWh": 158.3
+  },
+  {
+    "startDateTime": "2026-09-10T04:30:00Z",
+    "endDateTime": "2026-09-10T04:45:00Z",
+    "priceEurMWh": 58.89
+  },
+  {
+    "startDateTime": "2026-09-10T04:45:00Z",
+    "endDateTime": "2026-09-10T05:00:00Z",
+    "priceEurMWh": 54.19
+  },
+  {
+    "startDateTime": "2026-09-10T05:00:00Z",
+    "endDateTime": "2026-09-10T05:15:00Z",
+    "priceEurMWh": 75.04
+  },
+  {
+    "startDateTime": "2026-09-10T05:15:00Z",
+    "endDateTime": "2026-09-10T05:30:00Z",
+    "priceEurMWh": 79.07
+  },
+  {
+    "startDateTime": "2026-09-10T05:30:00Z",
+    "endDateTime": "2026-09-10T05:45:00Z",
+    "priceEurMWh": 84.6
+  },
+  {
+    "startDateTime": "2026-09-10T05:45:00Z",
+    "endDateTime": "2026-09-10T06:00:00Z",
+    "priceEurMWh": 79.46
+  },
+  {
+    "startDateTime": "2026-09-10T06:00:00Z",
+    "endDateTime": "2026-09-10T06:15:00Z",
+    "priceEurMWh": 102.8
+  },
+  {
+    "startDateTime": "2026-09-10T06:15:00Z",
+    "endDateTime": "2026-09-10T06:30:00Z",
+    "priceEurMWh": 87.39
+  },
+  {
+    "startDateTime": "2026-09-10T06:30:00Z",
+    "endDateTime": "2026-09-10T06:45:00Z",
+    "priceEurMWh": 74.18
+  },
+  {
+    "startDateTime": "2026-09-10T06:45:00Z",
+    "endDateTime": "2026-09-10T07:00:00Z",
+    "priceEurMWh": 54.91
+  },
+  {
+    "startDateTime": "2026-09-10T07:00:00Z",
+    "endDateTime": "2026-09-10T07:15:00Z",
+    "priceEurMWh": 87.6
+  },
+  {
+    "startDateTime": "2026-09-10T07:15:00Z",
+    "endDateTime": "2026-09-10T07:30:00Z",
+    "priceEurMWh": 50.01
+  },
+  {
+    "startDateTime": "2026-09-10T07:30:00Z",
+    "endDateTime": "2026-09-10T07:45:00Z",
+    "priceEurMWh": 88.57
+  },
+  {
+    "startDateTime": "2026-09-10T07:45:00Z",
+    "endDateTime": "2026-09-10T08:00:00Z",
+    "priceEurMWh": 54.41
+  },
+  {
+    "startDateTime": "2026-09-10T08:00:00Z",
+    "endDateTime": "2026-09-10T08:15:00Z",
+    "priceEurMWh": 77.18
+  },
+  {
+    "startDateTime": "2026-09-10T08:15:00Z",
+    "endDateTime": "2026-09-10T08:30:00Z",
+    "priceEurMWh": 46.9
+  },
+  {
+    "startDateTime": "2026-09-10T08:30:00Z",
+    "endDateTime": "2026-09-10T08:45:00Z",
+    "priceEurMWh": 41.28
+  },
+  {
+    "startDateTime": "2026-09-10T08:45:00Z",
+    "endDateTime": "2026-09-10T09:00:00Z",
+    "priceEurMWh": 40.77
+  },
+  {
+    "startDateTime": "2026-09-10T09:00:00Z",
+    "endDateTime": "2026-09-10T09:15:00Z",
+    "priceEurMWh": 40.85
+  },
+  {
+    "startDateTime": "2026-09-10T09:15:00Z",
+    "endDateTime": "2026-09-10T09:30:00Z",
+    "priceEurMWh": 40.96
+  },
+  {
+    "startDateTime": "2026-09-10T09:30:00Z",
+    "endDateTime": "2026-09-10T09:45:00Z",
+    "priceEurMWh": 40.95
+  },
+  {
+    "startDateTime": "2026-09-10T09:45:00Z",
+    "endDateTime": "2026-09-10T10:00:00Z",
+    "priceEurMWh": 39.35
+  },
+  {
+    "startDateTime": "2026-09-10T10:00:00Z",
+    "endDateTime": "2026-09-10T10:15:00Z",
+    "priceEurMWh": 47.28
+  },
+  {
+    "startDateTime": "2026-09-10T10:15:00Z",
+    "endDateTime": "2026-09-10T10:30:00Z",
+    "priceEurMWh": 39.88
+  },
+  {
+    "startDateTime": "2026-09-10T10:30:00Z",
+    "endDateTime": "2026-09-10T10:45:00Z",
+    "priceEurMWh": 35.39
+  },
+  {
+    "startDateTime": "2026-09-10T10:45:00Z",
+    "endDateTime": "2026-09-10T11:00:00Z",
+    "priceEurMWh": 31.4
+  },
+  {
+    "startDateTime": "2026-09-10T11:00:00Z",
+    "endDateTime": "2026-09-10T11:15:00Z",
+    "priceEurMWh": 39.93
+  },
+  {
+    "startDateTime": "2026-09-10T11:15:00Z",
+    "endDateTime": "2026-09-10T11:30:00Z",
+    "priceEurMWh": 36.25
+  },
+  {
+    "startDateTime": "2026-09-10T11:30:00Z",
+    "endDateTime": "2026-09-10T11:45:00Z",
+    "priceEurMWh": 34.04
+  },
+  {
+    "startDateTime": "2026-09-10T11:45:00Z",
+    "endDateTime": "2026-09-10T12:00:00Z",
+    "priceEurMWh": 35.04
+  },
+  {
+    "startDateTime": "2026-09-10T12:00:00Z",
+    "endDateTime": "2026-09-10T12:15:00Z",
+    "priceEurMWh": 28.53
+  },
+  {
+    "startDateTime": "2026-09-10T12:15:00Z",
+    "endDateTime": "2026-09-10T12:30:00Z",
+    "priceEurMWh": 34.77
+  },
+  {
+    "startDateTime": "2026-09-10T12:30:00Z",
+    "endDateTime": "2026-09-10T12:45:00Z",
+    "priceEurMWh": 41.19
+  },
+  {
+    "startDateTime": "2026-09-10T12:45:00Z",
+    "endDateTime": "2026-09-10T13:00:00Z",
+    "priceEurMWh": 45.24
+  },
+  {
+    "startDateTime": "2026-09-10T13:00:00Z",
+    "endDateTime": "2026-09-10T13:15:00Z",
+    "priceEurMWh": 30.62
+  },
+  {
+    "startDateTime": "2026-09-10T13:15:00Z",
+    "endDateTime": "2026-09-10T13:30:00Z",
+    "priceEurMWh": 36.5
+  },
+  {
+    "startDateTime": "2026-09-10T13:30:00Z",
+    "endDateTime": "2026-09-10T13:45:00Z",
+    "priceEurMWh": 40.93
+  },
+  {
+    "startDateTime": "2026-09-10T13:45:00Z",
+    "endDateTime": "2026-09-10T14:00:00Z",
+    "priceEurMWh": 47.32
+  },
+  {
+    "startDateTime": "2026-09-10T14:00:00Z",
+    "endDateTime": "2026-09-10T14:15:00Z",
+    "priceEurMWh": 36.45
+  },
+  {
+    "startDateTime": "2026-09-10T14:15:00Z",
+    "endDateTime": "2026-09-10T14:30:00Z",
+    "priceEurMWh": 39.79
+  },
+  {
+    "startDateTime": "2026-09-10T14:30:00Z",
+    "endDateTime": "2026-09-10T14:45:00Z",
+    "priceEurMWh": 39.15
+  },
+  {
+    "startDateTime": "2026-09-10T14:45:00Z",
+    "endDateTime": "2026-09-10T15:00:00Z",
+    "priceEurMWh": 49.99
+  },
+  {
+    "startDateTime": "2026-09-10T15:00:00Z",
+    "endDateTime": "2026-09-10T15:15:00Z",
+    "priceEurMWh": 28.12
+  },
+  {
+    "startDateTime": "2026-09-10T15:15:00Z",
+    "endDateTime": "2026-09-10T15:30:00Z",
+    "priceEurMWh": 39.58
+  },
+  {
+    "startDateTime": "2026-09-10T15:30:00Z",
+    "endDateTime": "2026-09-10T15:45:00Z",
+    "priceEurMWh": 49.99
+  },
+  {
+    "startDateTime": "2026-09-10T15:45:00Z",
+    "endDateTime": "2026-09-10T16:00:00Z",
+    "priceEurMWh": 61.23
+  },
+  {
+    "startDateTime": "2026-09-10T16:00:00Z",
+    "endDateTime": "2026-09-10T16:15:00Z",
+    "priceEurMWh": 48.38
+  },
+  {
+    "startDateTime": "2026-09-10T16:15:00Z",
+    "endDateTime": "2026-09-10T16:30:00Z",
+    "priceEurMWh": 49.99
+  },
+  {
+    "startDateTime": "2026-09-10T16:30:00Z",
+    "endDateTime": "2026-09-10T16:45:00Z",
+    "priceEurMWh": 50
+  },
+  {
+    "startDateTime": "2026-09-10T16:45:00Z",
+    "endDateTime": "2026-09-10T17:00:00Z",
+    "priceEurMWh": 49.98
+  },
+  {
+    "startDateTime": "2026-09-10T17:00:00Z",
+    "endDateTime": "2026-09-10T17:15:00Z",
+    "priceEurMWh": 54.29
+  },
+  {
+    "startDateTime": "2026-09-10T17:15:00Z",
+    "endDateTime": "2026-09-10T17:30:00Z",
+    "priceEurMWh": 50
+  },
+  {
+    "startDateTime": "2026-09-10T17:30:00Z",
+    "endDateTime": "2026-09-10T17:45:00Z",
+    "priceEurMWh": 49.99
+  },
+  {
+    "startDateTime": "2026-09-10T17:45:00Z",
+    "endDateTime": "2026-09-10T18:00:00Z",
+    "priceEurMWh": 42.96
+  },
+  {
+    "startDateTime": "2026-09-10T18:00:00Z",
+    "endDateTime": "2026-09-10T18:15:00Z",
+    "priceEurMWh": 56.54
+  },
+  {
+    "startDateTime": "2026-09-10T18:15:00Z",
+    "endDateTime": "2026-09-10T18:30:00Z",
+    "priceEurMWh": 50.99
+  },
+  {
+    "startDateTime": "2026-09-10T18:30:00Z",
+    "endDateTime": "2026-09-10T18:45:00Z",
+    "priceEurMWh": 45.19
+  },
+  {
+    "startDateTime": "2026-09-10T18:45:00Z",
+    "endDateTime": "2026-09-10T19:00:00Z",
+    "priceEurMWh": 33
+  },
+  {
+    "startDateTime": "2026-09-10T19:00:00Z",
+    "endDateTime": "2026-09-10T19:15:00Z",
+    "priceEurMWh": 46.87
+  },
+  {
+    "startDateTime": "2026-09-10T19:15:00Z",
+    "endDateTime": "2026-09-10T19:30:00Z",
+    "priceEurMWh": 40.05
+  },
+  {
+    "startDateTime": "2026-09-10T19:30:00Z",
+    "endDateTime": "2026-09-10T19:45:00Z",
+    "priceEurMWh": 37.86
+  },
+  {
+    "startDateTime": "2026-09-10T19:45:00Z",
+    "endDateTime": "2026-09-10T20:00:00Z",
+    "priceEurMWh": 31.58
+  },
+  {
+    "startDateTime": "2026-09-10T20:00:00Z",
+    "endDateTime": "2026-09-10T20:15:00Z",
+    "priceEurMWh": 42.99
+  },
+  {
+    "startDateTime": "2026-09-10T20:15:00Z",
+    "endDateTime": "2026-09-10T20:30:00Z",
+    "priceEurMWh": 40.2
+  },
+  {
+    "startDateTime": "2026-09-10T20:30:00Z",
+    "endDateTime": "2026-09-10T20:45:00Z",
+    "priceEurMWh": 37.21
+  },
+  {
+    "startDateTime": "2026-09-10T20:45:00Z",
+    "endDateTime": "2026-09-10T21:00:00Z",
+    "priceEurMWh": 30
+  },
+  {
+    "startDateTime": "2026-09-10T21:00:00Z",
+    "endDateTime": "2026-09-10T21:15:00Z",
+    "priceEurMWh": 39.99
+  },
+  {
+    "startDateTime": "2026-09-10T21:15:00Z",
+    "endDateTime": "2026-09-10T21:30:00Z",
+    "priceEurMWh": 38.12
+  },
+  {
+    "startDateTime": "2026-09-10T21:30:00Z",
+    "endDateTime": "2026-09-10T21:45:00Z",
+    "priceEurMWh": 35.93
+  },
+  {
+    "startDateTime": "2026-09-10T21:45:00Z",
+    "endDateTime": "2026-09-10T22:00:00Z",
+    "priceEurMWh": 30
+  }
+]
